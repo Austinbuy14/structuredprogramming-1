@@ -1,0 +1,5 @@
+color_list = ["Red","Green","White","Black"]
+color_list_first = color_list[:1]
+color_list_last = color_list[3:]
+print (color_list_first + color_list_last)
+

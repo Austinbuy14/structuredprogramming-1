@@ -1,0 +1,6 @@
+print("please enter your radius")
+radius = float(input())
+#set pi#
+pi = 3.141592
+#formula#
+print (pi * radius**2)

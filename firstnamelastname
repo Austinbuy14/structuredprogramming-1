@@ -1,0 +1,7 @@
+print("what is your First name?")
+Firstname = input()
+print ("Hello " +Firstname)
+print("what is your last name?")
+Lastname = input()
+print("your Lastname and then Firstname is")
+print(Lastname + Firstname)

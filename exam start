@@ -1,0 +1,4 @@
+exam_st_date = (11 , 12, 2017)
+day,month,year = exam_st_date
+print ("The exam will start on " + str(day)+ "/" +str(month)+ "/" +str(year))
+

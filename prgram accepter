@@ -1,0 +1,11 @@
+#importing time so it doesnt look weird
+import time
+#ask for filename
+
+directory = input("Enter the filename ")
+
+file = directory.split(".")[-1]
+#uses split to seperate the string at .
+time.sleep(2)
+print("The extenion is " + file)
+#then just returns answer

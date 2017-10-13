@@ -1,0 +1,18 @@
+
+
+def feedmeee():
+
+    numbers = input("feed me  integers! ")
+
+    n = int(numbers)
+    nn = int(2 * numbers)
+    nnn = int(3 * numbers)
+    ni = n+nn+nnn
+
+    
+
+
+    print("Sample value of n is {}".format(numbers))
+    print("Result: {}".format(ni))
+
+    return
